@@ -74,4 +74,4 @@ I am including this website as a major project, not only because it is recent bu
 - **Email:** ryanmbloch@gmail.com  
 - **LinkedIn:** [linkedin.com/in/ryanbloch](https://linkedin.com/in/ryanbloch)  
 - **GitHub:** [github.com/rmbloch](https://github.com/rmbloch)
-- 📄 [Download Resume](https://ryanbloch.vercel.app/Ryan%20Bloch%20Resume.pdf)
+- **Resume:** [Download Resume](https://ryanbloch.vercel.app/Ryan%20Bloch%20Resume.pdf)
