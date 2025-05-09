@@ -72,6 +72,6 @@ I am including this website as a major project, not only because it is recent bu
 ## 📫 Contact Me
 
 - **Email:** ryanmbloch@gmail.com  
-- **LinkedIn:** [linkedin.com/in/ryanbloch](https://linkedin.com/in/ryanbloch)  
+- **LinkedIn:** [linkedin.com/in/rmbloch](https://linkedin.com/in/rmbloch)  
 - **GitHub:** [github.com/rmbloch](https://github.com/rmbloch)
 - **Resume:** [Download Resume](https://ryanbloch.vercel.app/Ryan%20Bloch%20Resume.pdf)
