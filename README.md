@@ -19,7 +19,7 @@ I'm a passionate developer and full-time student at the University of Pittsburgh
 **Frameworks:**  
 `React` `Node.js` `Next.js` `Angular` `Spring Boot` `Ruby on Rails` `PyTorch`
 
-**Databases & Tools:**
+**Databases & Tools:**  
 `PostgreSQL` `H2` `Firebase` `Docker` `Git` `CI/CD` `OpenAI APIs` `Google Cloud`
 
 ---
