@@ -7,27 +7,36 @@
 
 ## 🧠 About Me
 
-I'm a passionate developer and full-time student at the University of Pittsburgh, pursuing a Bachelor of Science in Computer Science with a minor in Business. I have experience in both front-end and back-end development, working with modern technologies like Ruby on Rails, React, and OpenAI's APIs. I'm always eager to learn and take on new challenges that push me out of my comfort zone.
+I'm a passionate developer and full-time student at the University of Pittsburgh, pursuing a Bachelor of Science in Computer Science with a minor in Business. I have experience in both front-end and back-end development, working with modern technologies like React, Python, Node, Ruby on Rails, and OpenAI's APIs. I'm always eager to learn and take on new challenges that push me out of my comfort zone.
 
 ---
 
 ## 🔧 Tech Stack
 
 **Languages:**  
-`Java` `Ruby` `Python` `JavaScript` `HTML5` `CSS` `SQL`
+`Java` `TypeScript` `Ruby` `Python` `JavaScript` `HTML` `CSS` `SQL` `C`
 
-**Frameworks & Tools:**  
-`Ruby on Rails` `React` `Node.js` `Next.js` `PostgreSQL` `Docker` `Tailwind CSS` `Git`
+**Frameworks:**  
+`React` `Node.js` `Next.js` `Angular` `Spring Boot` `Ruby on Rails` `PyTorch`
+
+**Databases & Tools:**
+`PostgreSQL` `H2` `Firebase` `Docker` `Git` `CI/CD` `OpenAI APIs` `Google Cloud`
 
 ---
 
 ## 📚 Education
 
-As a full-time student and rising senior at the University of Pittsburgh, I expect to graduate in April 2026. Throughout my two full years at Pitt, I have completed rigorous coursework towards the Computer Science degree, such as Algorithms and Data Structures 1 & 2, Computer Organization & Assembly Language, Discrete Structures, and Systems Programming. While maintaining a GPA above 3.7, I also stay actively involved in various coding projects, hackathons, and on-campus clubs.
+As a full-time student and rising senior at the University of Pittsburgh, I expect to graduate in April 2026. Throughout my two full years at Pitt, I have completed rigorous coursework towards the Computer Science degree, such as Algorithms and Data Structures 1 & 2, Computer Organization & Assembly Language, Software Engineer, Database Management Systems, and Systems Programming. While maintaining a GPA above 3.7, I also stay actively involved in various coding projects, hackathons, and on-campus clubs.
 
 ---
 
 ## 🛠️ Projects
+
+### 📈 Options Bot
+
+Built a sophisticated options trading program that leverages AI to identify profitable options opportunities. The bot monitors real-time market data, processes unusual options activity through a custom scoring algorithm, and uses GPT to generate clear trading recommendations. Features include automated Telegram alerts, Docker deployment, and a modular architecture that allows easy integration of new data sources and analysis techniques.
+
+[See Overview](https://github.com/Rmbloch/options-bot-desc)
 
 ### 🎥 YouTube Video Automation
 
@@ -61,6 +70,7 @@ I am including this website as a major project, not only because it is recent bu
 
 - Listening to all kinds of music
 - Staying active in on-campus clubs
+- Golfing
 - Playing guitar
 - Going to the gym
 - Cooking
